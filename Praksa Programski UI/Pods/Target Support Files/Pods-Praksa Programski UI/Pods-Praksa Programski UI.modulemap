@@ -1,0 +1,6 @@
+framework module Pods_Praksa_Programski_UI {
+  umbrella header "Pods-Praksa Programski UI-umbrella.h"
+
+  export *
+  module * { export * }
+}
